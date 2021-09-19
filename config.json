@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://akp:akp@cluster0.d7sxd.mongodb.net/angular?retryWrites=true&w=majority",
+    "secret": "angular"
+}
